@@ -14,4 +14,3 @@
 - [Jalsa Salana UK 2026 Cost-Optimized Starter Plan (5 AP)](docs/jalsa-wifi-cost-optimized-5-ap.md)
 - [Jalsa Salana UK 2026 Linux-Based Low-Cost Wi-Fi Plan](docs/jalsa-wifi-linux-low-cost-plan.md)
 - [Jalsa Salana UK 2026 - Temporary Pilot Plan (£4k Budget)](docs/jalsa-wifi-temporary-pilot-4k.md)
-
