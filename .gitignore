@@ -1,0 +1,13 @@
+# Ignore reference/legacy documentation
+docs/jalsa-wifi-plan.md
+docs/jalsa-wifi-plan-upto-500-users.md
+docs/jalsa-wifi-bom-1200x600-feet.md
+docs/jalsa-wifi-cost-optimized-5-ap.md
+docs/jalsa-wifi-linux-low-cost-plan.md
+
+# OS/IDE
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
