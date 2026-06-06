@@ -50,7 +50,7 @@ A reliable, scalable WiFi infrastructure that serves temporary event attendees w
 
 **Best for:** Proof-of-concept, first-time event, minimal capex
 
-- [**Jalsa Salana UK 2026 - Temporary Pilot Plan (£4k Budget)**](docs/jalsa-wifi-temporary-pilot-4k.md)
+- [**Jalsa Salana UK 2026 - Temporary Pilot Plan (£1.2k Budget)**](docs/jalsa-wifi-temporary-pilot-1.2k.md)
   - **3 APs** (rental, priority zones only)
   - **Single 5G WAN** (no Starlink yet)
   - **Open-source gateway** (Linux + OpenNDS)
